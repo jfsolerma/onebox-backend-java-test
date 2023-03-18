@@ -1,0 +1,1 @@
+CREATE TABLE Cart (ID integer primary key )
