@@ -19,7 +19,7 @@ Params:
         }
   newCart:
         {
-          ID, [Products]
+         [Products]
         }
 
 http://localhost:8080/shop/swagger-ui/#/cart-controller/getCustomerUsingGET
